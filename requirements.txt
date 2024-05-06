@@ -1,0 +1,7 @@
+fastapi
+pydantic
+os
+json
+typing
+spider_env
+autogen
